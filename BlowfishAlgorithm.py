@@ -331,7 +331,7 @@ encrypt_data = int(input("Enter data to encrypt: "))
 if encrypt_data.bit_length() <=63:
     print("Valid Input!!!")
 else:
-    print("INvalid Input!!")
+    print("Invalid Input!!")
 
 data_encrypted = encrypt(encrypt_data)
 print("Encrypted data is: ",data_encrypted)
@@ -340,13 +340,15 @@ data_decrypted = decrypt(data_encrypted)
 print("Data after decryption is : ",data_decrypted) 
 
 
-# OUTPUT-1
-# PS H:\CSS Labs> python .\blowfish.py
-# Enter data to encrypt: 56978463122564976823465798542134675984643124676463521364579754213467594613124335496531
-# INvalid Input!!
 
-# OUTUT-2
-# PS H:\CSS Labs> python .\blowfish.py
+
+#SAMPLE OUTPUTS
+
+# OUTPUT-1
+# Enter data to encrypt: 56978463122564976823465798542134675984643124676463521364579754213467594613124335496531
+# Invalid Input!!
+
+# OUTPUT-2
 # Enter data to encrypt: 88995566
 # Valid Input!!!
 # Encrypted data is:  17782265904800093077
