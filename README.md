@@ -1,6 +1,6 @@
 # Blowfish-Algorithm
 
-<a href="url"><img src="https://cdn.pixabay.com/photo/2016/03/31/17/58/computer-1294045__340.png" align="left" height="48" width="48" ></a>
+<a href="url"><img src="https://cdn.pixabay.com/photo/2016/03/31/17/58/computer-1294045__340.png" align="left" height="100" width="100" ></a><br/>
 
 ## For CSE3501 - Information Security Analysis and Audit - Digital Assignment 3
 
