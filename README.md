@@ -1,10 +1,10 @@
 # Blowfish-Algorithm
 
+<a href="url"><img src="https://cdn.pixabay.com/photo/2016/03/31/17/58/computer-1294045__340.png" align="left" height="48" width="48" ></a>
+
 ## For CSE3501 - Information Security Analysis and Audit - Digital Assignment 3
 
 ## By Ananya Sajwan - 18BCE1355
-
-![alt text](https://cdn.pixabay.com/photo/2016/03/31/17/58/computer-1294045__340.png)
 
 ### An implementation of encryption and decryption using Blowfish Algorithm in Python.
 
