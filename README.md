@@ -4,6 +4,8 @@
 
 ## By Ananya Sajwan - 18BCE1355
 
+![alt text](https://cdn.pixabay.com/photo/2016/03/31/17/58/computer-1294045__340.png)
+
 ### An implementation of encryption and decryption using Blowfish Algorithm in Python.
 
 The code implements Blowfish Algorithm for encrypting and decrypting an integer value. 
